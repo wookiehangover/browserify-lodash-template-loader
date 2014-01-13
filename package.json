@@ -1,7 +1,7 @@
 {
-  "name": "node-underscorify",
+  "name": "browserify-lodash-template-loader",
   "version": "0.0.2",
-  "description": "Underscore precompiler plugin for Browserify v2",
+  "description": "Lodash precompiler plugin for Browserify v2",
   "main": "index.js",
   "scripts": {
     "test": "node test/test.js"
@@ -22,10 +22,7 @@
   "license": "MIT",
   "dependencies": {
     "through": "~2.2.7",
-    "underscore": "1.5.1"
-  },
-  "peerDependencies": {
-    "underscore": "1.5.1"
+    "lodash": "~2.4.1"
   },
   "devDependencies": {
     "browserify": "~2.4.0"

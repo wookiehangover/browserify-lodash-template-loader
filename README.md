@@ -1,8 +1,8 @@
-# node-underscorify
+# Browerify-lodash-template-loader
 
-Underscore precompiler plugin for Browserify v2.
+> Lodash template precompiler plugin for Browserify v2.
 
-Inspired and based on [node-hbsfy](https://github.com/epeli/node-hbsfy)
+Inspired and based on [node-underscorify](https://github.com/maxparm/node-underscorify)
 
 ## Setup
 
